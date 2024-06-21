@@ -5,7 +5,7 @@
   }
   
   .skill-container {
-    border: solid tan;
+    border: solid yellowgreen;
     width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -14,7 +14,7 @@
   }
   
   .skill-container > h3 {
-    color: tan;
+    color: green;
     font-style: italic;
   }
   
